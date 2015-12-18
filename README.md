@@ -90,6 +90,7 @@ set nu
  - 在命令模式下按 o 表示在本行之后新建一个空行
 更多vim命令可以在网上自行搜索
 
+<<<<<<< HEAD:README.md
 #配置Git#
 
 在命令行中输入:
@@ -97,3 +98,16 @@ set nu
 > git config --global user.name "你的github用户名"
 
 > git config --global user.email "你的github注册邮箱"
+=======
+#克隆工程#
+
+在命令行中找到一个常用的工作目录，输入：
+
+> git clone http://github.com/sdsz/helloworld.git
+
+解释一下这行命令：
+首先一个git，这是运行git的命令，clone表示我们要做的操作是克隆，后面跟的是代码仓库的地址，我们的工程的地址大概是这个样子的：
+http://github.com/建立仓库的用户名/项目名称.git
+
+成功后你就可以在当前目录里找到一个叫做"helloworld"的子目录，这就是这个项目的工作目录了
+>>>>>>> 124424dfab6aa597a83f2d047698159aafac574b:readme.md
