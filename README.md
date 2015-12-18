@@ -89,3 +89,11 @@ set nu
  - 在命令模式下按 p 表示粘贴
  - 在命令模式下按 o 表示在本行之后新建一个空行
 更多vim命令可以在网上自行搜索
+
+#配置Git#
+
+在命令行中输入:
+
+> git config --global user.name "你的github用户名"
+
+> git config --global user.email "你的github注册邮箱"
