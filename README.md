@@ -1,3 +1,8 @@
+#IMPORTANT NOTES#
+
+From now on `sdsz` will be an organization instead of a personal account. Check your notifications inside GitHub and accept the invitations. To get into the organization ask for Owners to invite you.
+
+
 #简介#
 
 这个工程只是一个样例工程，用于向社团中的成员解释github的基本使用方法，所有计算机社的成员需要阅读这个工程并完成相关设置
@@ -159,3 +164,5 @@ ______
 Xu Pengcheng	2015-12-19	xubin990510@126.com  
 Jin Yueqi	2015-12-19	Sprjdfn jinyueqi1616@hotmail.com  
 Jiang Lin	2015-12-19	jianglin332
+
+
