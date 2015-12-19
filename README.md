@@ -89,6 +89,8 @@ set nu
  - 在命令模式下按 p 表示粘贴
  - 在命令模式下按 o 表示在本行之后新建一个空行
 更多vim命令可以在网上自行搜索
+  
+如果同学觉得上述操作太复杂，可以直接从github官网下载github desktop来解决这个问题
 
 #配置Git#
 
@@ -154,5 +156,5 @@ After you have followed the steps above, please make change in `README.md` in th
 
 ______
 
-Xu Pengcheng    2015-12-19    xubin990510@126.com
-Jin Yueqi       2015-12-19    Sprjdfn/jinyueqi1616@hotmail.com
+Xu Pengcheng    2015-12-19    xubin990510@126.com  
+Jin Yueqi       2015-12-19    Sprjdfn/jinyueqi1616@hotmail.com  
