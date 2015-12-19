@@ -156,6 +156,6 @@ After you have followed the steps above, please make change in `README.md` in th
 
 ______
 
-Xu Pengcheng    2015-12-19    xubin990510@126.com  
-Jin Yueqi       2015-12-19    Sprjdfn/jinyueqi1616@hotmail.com  
-Jiang Lin       2015-12-19    jianglin332
+Xu Pengcheng	2015-12-19	xubin990510@126.com  
+Jin Yueqi	2015-12-19	Sprjdfn/jinyueqi1616@hotmail.com  
+Jiang Lin	2015-12-19	jianglin332
