@@ -145,3 +145,13 @@ http://github.com/建立仓库的用户名/项目名称.git
 > git help <命令>
 
 以查看命令的具体帮助，或可以咨询维护组的同学，如果还不能解决，也可以上网查找
+
+#Test if everyone has got the access to git#
+
+After you have followed the steps above, please make change in `README.md` in this section in the format below:
+
+> <NAME(Pinyin accepted)>    <DATE>    <USERNAME OR EMAIL ON GITHUB>
+
+______
+
+Xu Pengcheng    2015-12-19    xubin990510@126.com
