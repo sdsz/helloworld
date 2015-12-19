@@ -150,7 +150,7 @@ http://github.com/建立仓库的用户名/项目名称.git
 
 After you have followed the steps above, please make change in `README.md` in this section in the format below:
 
-> <NAME(Pinyin accepted)>    <DATE>    <USERNAME OR EMAIL ON GITHUB>
+`<NAME(Pinyin accepted)>    <DATE>    <USERNAME OR EMAIL ON GITHUB>`
 
 ______
 
