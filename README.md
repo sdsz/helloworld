@@ -14,7 +14,7 @@
 
 在此之前，我们要先说明几点：
  - 1.在完成建立github账户后请先向系统维护组的成员告知自己的github账户
- - 2.建议先按照 https://github.com/racaljk/hosts 上的步骤配置hosts，方便网络的访问
+ - 2.建议先按照 https://github.com/racaljk/hosts 上的步骤配置hosts，方便网络的访问(现在也可以在本项目的hosts中找到hosts文件)
  - 3.推荐使用linux操作系统
 
 #建立github账户#
